@@ -32,5 +32,9 @@ I am making a personal goal of 20 rejections for submitting talks to open call f
   - [Homepage]
   - [Tickets]
   - [CFP]
+- [ ] Lambda Squared, Knoxville, TN - April 26, 2019, April 27, 2019
+  - [Homepage](https://www.lambda-squared.com/home)
+  - [Tickets] coming soon
+  - [CFP](https://www.papercall.io/cfps/1658/submissions/new)
 
 # Topic Idea's
