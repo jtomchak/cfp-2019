@@ -1,0 +1,1 @@
+I work at USAA as a full stack JavaScript developer. Teaching JavaScript fundamentals from beginning to excited is a personal passion of mine. I host and produce a podcast, JavaScript to Elm, to get the word out about types and the paradigm of functional programming. I have dad jokes for days.
