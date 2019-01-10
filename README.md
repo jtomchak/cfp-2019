@@ -8,7 +8,7 @@ I am making a personal goal of 20 rejections for submitting talks to open call f
   - [Homepage](https://www.elminthespring.org/)
   - [Tickets](https://ti.to/elm-in-the-spring/chicago-2019/en)
   - [CFP](https://www.papercall.io/elm-in-the-spring-2019) 1/31/19 - Closes
-- [ ] Reactathon, March 30th -31st
+- [x] Reactathon, March 30th -31st
   - [Homepage](https://www.reactathon.com/)
   - [Tickets](https://ti.to/real-world-react/reactathon-2019)
   - [CFP](https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform?usp=sf_link)
