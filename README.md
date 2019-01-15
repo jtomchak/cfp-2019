@@ -12,6 +12,10 @@ I am making a personal goal of 20 rejections for submitting talks to open call f
   - [Homepage](https://www.reactathon.com/)
   - [Tickets](https://ti.to/real-world-react/reactathon-2019)
   - [CFP](https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform?usp=sf_link)
+- [x] JS Conf 2019, Aug 12-14th
+  - [Homepage](https://2019.jsconf.us/)
+  - [Tickets](https://ti.to/jsconf-us/jsconf-us-2019)
+  - [CFP](https://2019.jsconf.us/posts/2019-01-14-cfp-open)
 - [ ] Byte Conf JavaScript, Friday, March 1, 2019
   - [Homepage](https://www.byteconf.com/js-2019)
   - [Tickets](https://www.byteconf.com/s/twitch) 2/1/19 - Closes
