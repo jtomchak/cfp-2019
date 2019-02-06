@@ -14,7 +14,12 @@ Babel-plugin-macros is now included with Create React App 2.0, and with it opens
 ## Pitch
 
 _Explain why you're the right person to present this talk. Why should the audience care about this talk? Why are you excited about it? Only the selection committee will see this. If you're a new speaker, help us know you'll perform well on stage._
+
 Getting into the abstract syntax tree(AST) is a lot of fun, but is hard to translate a topic like that into something really exciting. Babel macros is an opportunity show the power of using the AST with a direct tangible goal of making something awesome in your project or for your team to use.
+
+Learning about abstract syntax tree(AST) can be daunting, but is totally worth it, let's try it with some practical application. Babel macros gives us that opportunity to explore AST and build some powerful compile-time code transformations in our project.
+
+Babel Macros is a great way to perform compile-time code transformations for our projects, with little to no configuration. Working through the abstract syntax tree (AST) creating macros will give your project a boost of productivity and spark joy in the developer experience.
 
 ## Bio
 
