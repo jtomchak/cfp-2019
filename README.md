@@ -48,3 +48,21 @@ I am making a personal goal of 20 rejections for submitting talks to open call f
 ## Topic Idea's
 
 1. Transform for Good, using Babel Macro
+1. Types Can Help
+1. WebAssembly needs you
+1. Instant Computing WebAssembly VM
+1. You need Haskell, maybe.
+1. Haskell, the easy parts.
+1. From Pirate to Admiral with Types
+1. What does Babel Compile do?
+1. Elm and React together
+1. Gatsby, everyone can blog
+1. What is Functional JavaScript
+1. Typescript journey. From wow, ugh, to love.
+1. Everyone is devops
+1. Gatsby, getting content out
+1. Elm Live View
+1. Parsing Markdown
+1. Building Macros for JavaScript
+1. Saving Time Documentation
+   ​
